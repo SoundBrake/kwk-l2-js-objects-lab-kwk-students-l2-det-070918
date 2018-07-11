@@ -19,5 +19,5 @@ function deleteFromDriverByKey(d, k){
 }
 
 function destructivelyDeleteFromDriverByKey(d,k){
-  
+  delete d
 }
